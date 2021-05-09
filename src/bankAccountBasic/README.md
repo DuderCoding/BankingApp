@@ -1,1 +1,1 @@
-// This is old banking app, refer to other banking app for a later version
+// This is an old banking app project, refer to other banking app for a later version
